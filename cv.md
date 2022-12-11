@@ -13,3 +13,23 @@ commodi dicta saepe minus, officiis dolore labore! Adipisci aliquam quam quisqua
 corrupti at dolore id sit eligendi consequuntur deserunt. Autem nostrum consequatur optio laudantium dicta commodi nam
 eveniet? Vitae, tempore!
 
+## Skills:
+
+- HTML (beginner)
+- CSS (beginner)
+- JS (beginner)
+- GIT (beginner)
+
+## Code example:
+
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+```
+
+## Work experience:
+
+- Glonass
+- Wave diving center
+
