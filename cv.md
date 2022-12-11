@@ -33,3 +33,13 @@ function sum(a, b) {
 - Glonass
 - Wave diving center
 
+## Education:
+
+- school
+- college
+- university
+
+## Languages:
+
+- russian (native)
+- english (intermediate)
