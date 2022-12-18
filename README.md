@@ -1,5 +1,2 @@
-# rsschool-cv
-
-https://alf-anna.github.io/rsschool-cv/cv
-
-https://alf-anna.github.io/rsschool-cv/
+# [rsschool](https://alf-anna.github.io/rsschool-cv/)
+# [rsschool](https://alf-anna.github.io/rsschool-cv/cv)
